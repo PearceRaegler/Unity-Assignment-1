@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pdr2\\Unity Assignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B723814-EAEC-038C-C896-7A3DA20AE357}|Assembly-CSharp.csproj|C:\\Users\\pdr2\\Unity Assignment 1\\assets\\lighttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B723814-EAEC-038C-C896-7A3DA20AE357}|Assembly-CSharp.csproj|solutionrelative:assets\\lighttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B723814-EAEC-038C-C896-7A3DA20AE357}|Assembly-CSharp.csproj|c:\\users\\pdr2\\unity assignment 1\\assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B723814-EAEC-038C-C896-7A3DA20AE357}|Assembly-CSharp.csproj|solutionrelative:assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B723814-EAEC-038C-C896-7A3DA20AE357}|Assembly-CSharp.csproj|c:\\users\\pdr2\\unity assignment 1\\assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B723814-EAEC-038C-C896-7A3DA20AE357}|Assembly-CSharp.csproj|solutionrelative:assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\pdr2\\Unity Assignment 1\\Assets\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\pdr2\\Unity Assignment 1\\Assets\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\MouseLook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:09:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\pdr2\\Unity Assignment 1\\Assets\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\pdr2\\Unity Assignment 1\\Assets\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\CharacterMovement.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:00:14.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\pdr2\\Unity Assignment 1\\Assets\\LightTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\LightTrigger.cs",
+              "ToolTip": "C:\\Users\\pdr2\\Unity Assignment 1\\Assets\\LightTrigger.cs",
+              "RelativeToolTip": "Assets\\LightTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:53:48.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
